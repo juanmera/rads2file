@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-# Copyright 2019 Juan Manuel Mera
+# Copyright 2020 Juan Manuel Mera
 # Distributed under the terms of GNU General Public License v3 (GPLv3)
 
 from setuptools import setup
